@@ -14,7 +14,7 @@ Use this checklist before submitting your team project.
 ## 2. Team video
 
 - [ ] Record the team presentation video.
-- [ ] Upload the video to OneDrive.
+- [ ] One student from the team uploads the video to OneDrive.
 - [ ] Share the OneDrive video with `s.sotiriadis@bbk.ac.uk`.
 - [ ] Include the required video link in the peer evaluation form.
 
@@ -54,7 +54,7 @@ Before the deadline, check:
 - [ ] GitHub repository is shared with all team members.
 - [ ] GitHub repository is shared with `steliosot@msn.com`.
 - [ ] `.venv` is not pushed to GitHub.
-- [ ] Team video is uploaded to OneDrive.
+- [ ] One student from the team has uploaded the video to OneDrive.
 - [ ] Team video is shared with `s.sotiriadis@bbk.ac.uk`.
 - [ ] Team video link is included in the peer evaluation form.
 - [ ] Every team member has submitted the peer evaluation form in Moodle.

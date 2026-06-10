@@ -114,17 +114,17 @@ Explanation: Temporary views live only inside the current Spark session.
 
 ## Question 9
 
-Which final project step is most similar to Part 1?
+Which dataset is used in Session 9 Part 1?
 
-- Loading the cleaned market CSV and checking schema, row count, and columns
-- Writing the final reflection paragraph
-- Creating the private repository
-- Running pandas sample analysis only
+- `service_events.csv`
+- `orders.csv`
+- `Pokemon.csv`
+- `Movies.json`
 
 Answer: 1
 Type: single
 Time: 55
-Explanation: The final project Spark section starts by loading and verifying the cleaned CSV.
+Explanation: Session 9 Part 1 uses the service activity log dataset named `service_events.csv`.
 
 ## Question 10
 
